@@ -1,0 +1,15 @@
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.csproj.AssemblyReference.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.GeneratedMSBuildEditorConfig.editorconfig
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.AssemblyInfoInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.AssemblyInfo.cs
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.csproj.CoreCompileInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\bin\Debug\net6.0\task_27.exe
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\bin\Debug\net6.0\task_27.deps.json
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\bin\Debug\net6.0\task_27.runtimeconfig.json
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\bin\Debug\net6.0\task_27.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\bin\Debug\net6.0\task_27.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\refint\task_27.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\task_27.genruntimeconfig.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_27\obj\Debug\net6.0\ref\task_27.dll
