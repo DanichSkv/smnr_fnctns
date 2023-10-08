@@ -1,0 +1,15 @@
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\bin\Debug\net6.0\task_25.exe
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\bin\Debug\net6.0\task_25.deps.json
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\bin\Debug\net6.0\task_25.runtimeconfig.json
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\bin\Debug\net6.0\task_25.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\bin\Debug\net6.0\task_25.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.csproj.AssemblyReference.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.GeneratedMSBuildEditorConfig.editorconfig
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.AssemblyInfoInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.AssemblyInfo.cs
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.csproj.CoreCompileInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\refint\task_25.dll
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\task_25.genruntimeconfig.cache
+W:\Docs\GB\VS_code\C#\Smnr_#4_(Fnctns)\task_25\obj\Debug\net6.0\ref\task_25.dll
